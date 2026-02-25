@@ -1,12 +1,18 @@
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Python                   17 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.65 % 
-Text                     10 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.35 % 
+```txt
+Total Time: 87 hrs
+
+Python       81 hrs 26 mins        ███████████████████████▒░   93.19 %
+Markdown     2 hrs 37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+JSON         39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+HTML         34 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Text         28 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+C++          28 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+CSV          27 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Other        22 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Git          7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Git Config   6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
-
- Last Updated on 25/02/2026 03:16:40 UTC
 <!--END_SECTION:waka-->

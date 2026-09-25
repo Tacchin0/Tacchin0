@@ -19,13 +19,13 @@ Outside of coding, I am a competitive chess player: 2nd place in a 2022 regional
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 129 hrs 10 mins
+Total Time: 136 hrs 22 mins
 
-Python       116 hrs 54 mins       ██████████████████████▓░░   90.03 %
-Markdown     3 hrs 45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-SQL          2 hrs 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Text         2 hrs 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-JSON         48 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Python       122 hrs 48 mins       ██████████████████████▒░░   89.31 %
+Markdown     3 hrs 45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+SQL          2 hrs 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Text         2 hrs 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+CSV          1 hr 45 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
